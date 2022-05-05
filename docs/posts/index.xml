@@ -29,5 +29,17 @@ Para mi, los valores que debe tener un desarrollador son los siguientes:
  Honestidad (sobre todo cuando se trata de Home Office). Trabajo en equipo. Mejora continua. Autovaloración.  Estos principios procuro siempre aplicarlos y tenerlos siempre en mente.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://softnya.github.io/my_launchx_blog/posts/nft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://softnya.github.io/my_launchx_blog/posts/nft/</guid>
+      <description>Como crear un NFT en la red de WAX? El proceso es muy sencillo, primero hay que crear y recargar una wallet de WAX, para esto puedes ver este video, explica muy detalladamente:
+ https://www.youtube.com/watch?v=QbmDD2wlWHk
+ Para crear tu wallet es en: https://wallet.wax.io
+Es importante que consideres hacer &amp;ldquo;stake&amp;rdquo; de WAX dentro de NET, CPU y RAM como se especifica en el video. Como sugerencia realiza el stake de la siguiente manera: 5 WAX en NET 10 WAX en CPU 100 WAX en RAM</description>
+    </item>
+    
   </channel>
 </rss>
