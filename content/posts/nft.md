@@ -1,3 +1,9 @@
+---
+title: "Como crear un NFT en la red de WAX?"
+date: 2022-05-04
+description: ''
+---
+
 ### Como crear un NFT en la red de WAX?
 
 El proceso es muy sencillo, primero hay que crear y recargar una wallet de WAX, para esto puedes ver este video, explica muy detalladamente:
